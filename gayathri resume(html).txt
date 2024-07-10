@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gayathri Chiluvuri's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="contact-info">
+            <h1>Gayathri Chiluvuri</h1>
+            <p>Phone: 7207348472</p>
+            <p>Email: <a href="mailto:chiluvurigayathri5@gmail.com">chiluvurigayathri5@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/chiluvuri-gayathri-6030b4261" target="_blank">linkedin.com/chiluvuri-gayathri-6030b4261</a></p>
+            <p>Github: <a href="https://github.com/Gayathrichiluvuri" target="_blank">github.com/Gayathrichiluvuri</a></p>
+        </div>
+
+        <div class="section">
+            <h2>Objective</h2>
+            <p>To work dedicatedly for the organization, with a great pride in the profession where my knowledge and technical skills can be utilized for the growth of the organization as well as to enhance my knowledge about new and emerging trends.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Jyoti Nivas College Autonomous Post Graduate Center, Bangalore</strong></p>
+            <p>Affiliated to Bengaluru City University</p>
+            <p>2023 - 2025</p>
+            <p>Masters of Computer Application (Pursuing)</p>
+
+            <p><strong>Sasi Degree College, Tanuku Andhra Pradesh</strong></p>
+            <p>Affiliated to AKNU University</p>
+            <p>Year of Completion: 2023</p>
+            <p>Bachelors of Chemistry</p>
+            <p>Percentage: 87%</p>
+
+            <p><strong>Sri Sai Junior College, Tanuku Andhra Pradesh</strong></p>
+            <p>Year of Completion: 2020</p>
+            <p>Percentage: 66%</p>
+
+            <p><strong>TBR Sainik School, Alampuram, Andhra Pradesh</strong></p>
+            <p>Year of Completion: 2018</p>
+            <p>Percentage: 85%</p>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <p>Basic programming in C, Java, MySQL, Python.</p>
+        </div>
+
+        <div class="section">
+            <h2>Hobbies</h2>
+            <p>Cooking, designing, listening to music, gardening.</p>
+        </div>
+
+        <div class="section">
+            <h2>Project</h2>
+            <p>Python project on Battery Notifier.</p>
+        </div>
+
+        <div class="section">
+            <h2>Languages Known</h2>
+            <p>English, Telugu.</p>
+        </div>
+
+        <div class="section">
+            <h2>Certifications</h2>
+            <p>Introduction to Python by IBM.</p>
+        </div>
+
+        <div class="section">
+            <h2>Declaration</h2>
+            <p>I hereby declare that above furnished particulars are true to the best of my knowledge and belief.</p>
+        </div>
+    </div>
+</body>
+</html>
