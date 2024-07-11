@@ -1,5 +1,4 @@
 GAYATHRI CHILUVURI
-Masters of Computer Application
 Phone:7207348472
 Email:chiluvurigayathri5@gmail.com
 LinkedIn profile:www.linkedin.com/chiluvuri-gayathri-6030b4261
@@ -34,7 +33,7 @@ Year of Completion:2018
 Percentage:85%
 
 Skills:
-Basic programming language in c,Java,MySql,Python.
+Basic programming in c,Java,MySql,Python.
 
 Hobbies:
 Cooking,designing,Listening to Music,Gardening.
